@@ -1,0 +1,17 @@
+﻿Şehirler arası nakliye firmalarını düşünelim
+örneğin ığdırdan edirneye taşınacak bir ailenin eşyalarını nakliye edebilmesi
+için 3 farklı şehirde aktarmalı lojistik firmaları görev alıyor olsun
+
+ığdırdan sivasa "x firması"
+sivastan ankaraya "y firması"
+ankaradan edirneye "z firması"
+
+nakliye operasyonun bulunuyor olsun
+
+
+
+bu senaryomuzda bir konut alım satım sürecindeki para transferini ele alıyor olacağız. yapılan anlaşma neticesinde; alıcı, emlakçı ve ev sahibi arasında yapılacak olan para transferi şu şekiled gerçekleşecektir;
+
+alıcı, eğer konutun fiyatı 100 bin tl den büyükse parayı satıcıya gönderecek ve ardından satıcı emlakçıya %3lük komisyonu cebinden verecek
+
+yok eğer konutun fiyatı 100 bin tlden küçükse alıcı, emlakçının %10luk komisyonunu cebindne verecekve biryandan da konutun tam parasını satıcıya gönderecektir.
